@@ -1,6 +1,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=flat-square&labelColor=007acc&logo=typescript&logoColor=white)
 ![PUG](https://img.shields.io/badge/-PUG-1d954?style=flat-square&labelColor=101010&logo=pug&logoColor=white&color=101010)
 ![Python](https://img.shields.io/badge/-Python-1d954?style=flat-square&labelColor=0055ff&logo=python&logoColor=white&color=101010)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
