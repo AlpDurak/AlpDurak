@@ -1,5 +1,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-pink?style=flat-square&logo=sass&logoColor=black&labelColor=pink&color=pink)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=flat-square&labelColor=007acc&logo=typescript&logoColor=white)
 ![PUG](https://img.shields.io/badge/-PUG-1d954?style=flat-square&labelColor=101010&logo=pug&logoColor=white&color=101010)
@@ -11,5 +12,11 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-1d954?style=flat-square&labelColor=cc1dad&logo=graphql&logoColor=white&color=101010)
 ![Npm](https://img.shields.io/badge/-Npm-cb3837?style=flat-square&labelColor=cb3837&logo=NPM&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-007acc?style=flat-square&labelColor=007acc&logo=AdobePhotoShop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-yellow?style=flat-square&labelColor=yellow&logo=AdobeIllustrator&logoColor=black&color=%23FFCE5A)
+![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-darkblue?style=flat-square&labelColor=darkblue&logo=AdobeAfterEffects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-purple?style=flat-square&labelColor=purple&logo=AdobePremierePro&logoColor=white)
+![Filmora](https://img.shields.io/badge/-Filmora-green?style=flat-square&textColor=black)
 
 ![](https://github-readme-stats.vercel.app/api?username=AlpDurak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
