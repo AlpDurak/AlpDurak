@@ -8,9 +8,11 @@
 ![EJS](https://img.shields.io/badge/-EJS-1d954?style=flat-square&labelColor=0055ff&color=101010)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
+![Linux Debian](https://img.shields.io/badge/-Linux%20Debian-1d954?style=flat-square&labelColor=red&color=101010)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![MongoDB](https://camo.githubusercontent.com/767fd7b1a80de584bc961ce9ab515c6cc07bb0ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-1d954?style=flat-square&labelColor=cc1dad&logo=graphql&logoColor=white&color=101010)
+![Apollo Client](https://img.shields.io/badge/-Apollo%20Client-1d954?style=flat-square&labelColor=purple&color=101010)
 ![Npm](https://img.shields.io/badge/-Npm-cb3837?style=flat-square&labelColor=cb3837&logo=NPM&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
