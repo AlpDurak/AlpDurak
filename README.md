@@ -5,6 +5,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=flat-square&labelColor=007acc&logo=typescript&logoColor=white)
 ![PUG](https://img.shields.io/badge/-PUG-1d954?style=flat-square&labelColor=101010&logo=pug&logoColor=white&color=101010)
 ![Python](https://img.shields.io/badge/-Python-1d954?style=flat-square&labelColor=0055ff&logo=python&logoColor=white&color=101010)
+![EJS](https://img.shields.io/badge/-EJS-1d954?style=flat-square&labelColor=0055ff&color=101010)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
