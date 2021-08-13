@@ -17,6 +17,8 @@
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-yellow?style=flat-square&labelColor=yellow&logo=AdobeIllustrator&logoColor=black&color=%23FFCE5A)
 ![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-darkblue?style=flat-square&labelColor=darkblue&logo=AdobeAfterEffects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-purple?style=flat-square&labelColor=purple&logo=AdobePremierePro&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-darkblue?style=flat-square&labelColor=darkblue&logo=AdobeXD&logoColor=white)
 ![Filmora](https://img.shields.io/badge/-Filmora-green?style=flat-square&textColor=black)
+![Figma](https://img.shields.io/badge/-Figma-purple?style=flat-square&labelColor=purple&logo=Figma&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api?username=AlpDurak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
