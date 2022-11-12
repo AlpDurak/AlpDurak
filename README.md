@@ -3,10 +3,11 @@
 ![SASS](https://img.shields.io/badge/-SASS-pink?style=flat-square&logo=sass&logoColor=black&labelColor=pink&color=pink)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=flat-square&labelColor=007acc&logo=typescript&logoColor=white)
+![CSharp](https://img.shields.io/badge/-C%23-purple?style=flat-square&labelColor=purple&logo=csharp&logoColor=white)
 ![PUG](https://img.shields.io/badge/-PUG-1d954?style=flat-square&labelColor=101010&logo=pug&logoColor=white&color=101010)
 ![Python](https://img.shields.io/badge/-Python-1d954?style=flat-square&labelColor=0055ff&logo=python&logoColor=white&color=101010)
 ![EJS](https://img.shields.io/badge/-EJS-1d954?style=flat-square&labelColor=0055ff&color=101010)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![ReactJS](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-1d954?style=flat-square&labelColor=blue&color=101010)
 
 ![MongoDB](https://camo.githubusercontent.com/767fd7b1a80de584bc961ce9ab515c6cc07bb0ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462)
