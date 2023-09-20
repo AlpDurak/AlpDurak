@@ -1,30 +1,22 @@
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-pink?style=flat-square&logo=sass&logoColor=black&labelColor=pink&color=pink)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=flat-square&labelColor=007acc&logo=typescript&logoColor=white)
-![CSharp](https://img.shields.io/badge/-C%23-purple?style=flat-square&labelColor=purple&logo=csharp&logoColor=white)
-![PUG](https://img.shields.io/badge/-PUG-1d954?style=flat-square&labelColor=101010&logo=pug&logoColor=white&color=101010)
-![Python](https://img.shields.io/badge/-Python-1d954?style=flat-square&labelColor=0055ff&logo=python&logoColor=white&color=101010)
-![EJS](https://img.shields.io/badge/-EJS-1d954?style=flat-square&labelColor=0055ff&color=101010)
-![ReactJS](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![NextJS](https://img.shields.io/badge/-NextJS-1d954?style=flat-square&labelColor=blue&color=101010)
+# Meet Alp aka "buzz"
 
-![MongoDB](https://camo.githubusercontent.com/767fd7b1a80de584bc961ce9ab515c6cc07bb0ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462)
-![GraphQL](https://img.shields.io/badge/-GraphQL-1d954?style=flat-square&labelColor=cc1dad&logo=graphql&logoColor=white&color=101010)
-![Apollo Client](https://img.shields.io/badge/-Apollo%20Client-1d954?style=flat-square&labelColor=purple&color=101010)
+I'm a Full-Stack developer who has been coding JavaScript and TypeScript web apps for the past 3 years. I'm now trying to learn more about Go to actually switch to it.
+I mainly use NextJS and ReactJS for my Front-End and ExpressJS for backend.
 
-![Linux Debian](https://img.shields.io/badge/-Linux%20Debian-1d954?style=flat-square&labelColor=red&color=101010)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![Npm](https://img.shields.io/badge/-Npm-cb3837?style=flat-square&labelColor=cb3837&logo=NPM&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+I have coded and designed my projects over the years so I know the designing aspect of a website as well
 
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-007acc?style=flat-square&labelColor=007acc&logo=AdobePhotoShop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-yellow?style=flat-square&labelColor=yellow&logo=AdobeIllustrator&logoColor=black&color=%23FFCE5A)
-![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-darkblue?style=flat-square&labelColor=darkblue&logo=AdobeAfterEffects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-purple?style=flat-square&labelColor=purple&logo=AdobePremierePro&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-darkblue?style=flat-square&labelColor=darkblue&logo=AdobeXD&logoColor=white)
-![Filmora](https://img.shields.io/badge/-Filmora-green?style=flat-square&textColor=black)
-![Figma](https://img.shields.io/badge/-Figma-purple?style=flat-square&labelColor=purple&logo=Figma&logoColor=white)
-
-![](https://github-readme-stats.vercel.app/api?username=AlpDurak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+## What Do I Know?
+### Programming Languages
+JavaScript, TypeScript ⭐, Python, Lua, C# (not so good), Go (still learning)
+### Frameworks
+ReactJS, NextJS, Svelte, Svelte Kit, ExpressJS
+### Databases
+MongoDB, PostgreSQL
+### API Stuff
+GraphQL, REST APIs
+### DB Management Tools
+Mongoose, Prisma, Apollo
+### Runtimes
+NodeJS, Bun (still learning)
+### Others
+HTML, CSS, Puppeteer, Cheerio
