@@ -12,7 +12,7 @@ I'm currently coding an open-sourced project, keep an eye on me 👀.
 
 ## What Do I Know?
 ### Programming Languages
-JavaScript, TypeScript ⭐, Python, Lua, C# (not so good), Go (still learning)
+JavaScript, TypeScript ⭐, Swift, Python, Lua, C# (not so good), Go (still learning)
 ### Frameworks
 ReactJS, NextJS, Svelte, Svelte Kit, ExpressJS
 ### Databases
